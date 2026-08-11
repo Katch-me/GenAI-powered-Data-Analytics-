@@ -12,10 +12,11 @@ This workspace contains all source code, datasets, and strategic business delive
 | :--- | :--- | :--- |
 | **[`Delinquency_predictive_model.py`](file:///Users/anitavasava/Desktop/GenAI%20powered%20Data%20Analytics/Delinquency_predictive_model.py)** | `Python Script` | Preprocessing, 5-Fold Stratified CV, Model Comparison, and Champion evaluation. |
 | **`Delinquency_prediction_dataset.xlsx`** | `Data (Excel)` | Customer credit attributes, billing cycles, and delinquency status indicators. |
-| **`EDA_SummaryReport.docx`** | `Business Report` | Comprehensive Exploratory Data Analysis report with data profiling. |
-| **`Geldium_AI_Collections_Strategy.pptx`** | `Presentation` | Strategic slide deck detailing AI integration and collection roadmaps. |
-| **`Geldium_Business_Summary_Report.docx`** | `Business Report` | Executive summary highlighting deployment plans and business outcomes. |
-| **`Task 2_ModelPlan_Template.docx`** | `Documentation` | Template detailing replication, monitoring, and compliance frameworks. |
+| **[`EDA_SummaryReport.pdf`](file:///Users/anitavasava/Desktop/GenAI%20powered%20Data%20Analytics/EDA_SummaryReport.pdf)** | `Business Report (PDF)` | Comprehensive Exploratory Data Analysis report with data profiling. |
+| **[`Geldium_AI_Collections_Strategy.pptx`](file:///Users/anitavasava/Desktop/GenAI%20powered%20Data%20Analytics/Geldium_AI_Collections_Strategy.pptx)** | `Presentation (PPTX)` | Strategic slide deck detailing AI integration and collection roadmaps. |
+| **[`Geldium_AI_Collections_Strategy.pdf`](file:///Users/anitavasava/Desktop/GenAI%20powered%20Data%20Analytics/Geldium_AI_Collections_Strategy.pdf)** | `Presentation (PDF)` | PDF version of the strategic slide deck for direct viewing on GitHub. |
+| **[`Geldium_Business_Summary_Report.pdf`](file:///Users/anitavasava/Desktop/GenAI%20powered%20Data%20Analytics/Geldium_Business_Summary_Report.pdf)** | `Business Report (PDF)` | Executive summary highlighting deployment plans and business outcomes. |
+| **[`Task 2_ModelPlan.pdf`](file:///Users/anitavasava/Desktop/GenAI%20powered%20Data%20Analytics/Task 2_ModelPlan.pdf)** | `Documentation (PDF)` | Plan detailing replication, monitoring, and compliance frameworks. |
 
 ---
 
