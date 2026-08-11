@@ -5,7 +5,9 @@
 
 import os
 import pandas as pd
+# pyrefly: ignore [missing-import]
 import numpy as np
+# pyrefly: ignore [missing-import]
 import matplotlib.pyplot as plt
 
 from sklearn.model_selection import (
@@ -23,6 +25,7 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
 
+# pyrefly: ignore [missing-import]
 from xgboost import XGBClassifier
 
 from sklearn.metrics import (
