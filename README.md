@@ -61,7 +61,7 @@ Because of the high imbalance in the target variable (16.0% delinquent accounts)
 
 | Model | ROC-AUC | PR-AUC | Precision | Recall | F1-Score |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Logistic Regression ** | **0.4801** | **0.1526** | **0.1456** | **0.3594** | **0.2072** |
+| Logistic Regression | **0.4801** | **0.1526** | **0.1456** | **0.3594** | **0.2072** |
 | **XGBoost** | 0.4715 | 0.1454 | 0.0000 | 0.0000 | 0.0000 |
 | **Random Forest** | 0.4654 | 0.1451 | 0.0000 | 0.0000 | 0.0000 |
 
