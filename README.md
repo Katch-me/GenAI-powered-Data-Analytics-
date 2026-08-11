@@ -1,4 +1,4 @@
-# 📊 Geldium AI: Customer Delinquency Prediction & Collections Strategy
+# 📊 Geldium : Customer Delinquency Prediction & Collections Strategy
 
 An end-to-end, GenAI-compatible predictive modeling and analytics framework designed to identify delinquent credit accounts. This repository supports Geldium's intelligent, AI-powered collections strategy by predicting customer delinquency risk and optimizing recovery operations.
 
