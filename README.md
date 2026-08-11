@@ -65,7 +65,7 @@ Because of the high imbalance in the target variable (16.0% delinquent accounts)
 | **XGBoost** | 0.4715 | 0.1454 | 0.0000 | 0.0000 | 0.0000 |
 | **Random Forest** | 0.4654 | 0.1451 | 0.0000 | 0.0000 | 0.0000 |
 
-### Final Test Performance (Logistic Regression Champion)
+### Final Test Performance (Non of the 3 performed well but in comparison of all Logistic Regression performed better than others)
 * **ROC-AUC**: `0.4382`
 * **PR-AUC**: `0.2284`
 * **Precision**: `0.1220`
